@@ -1,4 +1,4 @@
-# こんにちは、蒼井咲です！👋
+#蒼井咲！👋
 
 <img src="https://static.wikia.nocookie.net/senpaiisanotokonoko/images/d/df/Volume_5_Japanese.jpg/revision/latest/scale-to-width-down/1000?cb=20240623192055" width="300">
 
@@ -38,4 +38,4 @@
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-📂 **私のプロジェクトをリポジトリ一覧でチェックしてください:** [こちらをクリック]([https://github.com/AoiSaki?tab=repositories](https://github.com/aoisaki01?tab=repositories))
+📂 **私のプロジェクトをリポジトリ一覧でチェックしてください:** [こちらをクリック]([https://github.com/aoisaki01?tab=repositories])
