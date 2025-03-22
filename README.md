@@ -38,4 +38,4 @@
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 - ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-📂 **私のプロジェクトをリポジトリ一覧でチェックしてください:** [こちらをクリック]([https://github.com/aoisaki01?tab=repositories])
+📂 **私のプロジェクトをリポジトリ一覧でチェックしてください:** [こちらをクリック](https://github.com/aoisaki01?tab=repositories)
